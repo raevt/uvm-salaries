@@ -1,7 +1,18 @@
 # Visualizing the data
 
-## Visualizations
+## Some thoughts
 
+This dataset is rather simple, effectively only a list of salaries and info on whether the person is a professor, lecturer, or neither. It would be very useful to be able to sort this data by part-time and full-time staff. Doing some spot-checking on the hundreds of professors with pay from 25,000 to 35,000, it seems most if not all are medical staff, which is presumably reflective only of their teaching income. 
+
+I _could_ make an arbitrary cut-off at some point in that range, but that would not necessarily be accurate, especially for the many full-time non-teaching staff making barely above minimum wage, for whom that is their entire income. What is clear is that there are spikes in low-paid part-time professors and lecturers which skew analyses.
+
+It could also be useful to sort this by specific academic rank, further than the simple lecturer/professor distinction, which is possible in this dataset. Though there is a large jump from a lecturer title to a tenure-track position, in theory it is a ranking system, and of course those on lower ranks will be paid less. This idea does not, however, reflect the reality of many academics spending their entire career as lecturers.
+
+To that end, it would also be interesting to make note of how long people have been in their role, and the roles they held previously. There is data back to 2008 on the UVM site, and back to 1999 on openpayrolls.com, so this may be an interesting project to continue with an analysis focused on the time series aspect: moves from lecturer to professor, increases in pay by professor/lecturer, turnover rates, pay disparity changes, etc.
+
+However, I believe the below visualizations provide a relatively complete view of the current distinction between lecturers and professors in terms of pay.
+
+## Visualizations
 
 Frequency histogram of all pay data:
 
@@ -50,13 +61,3 @@ Pie chart for lecturers/professors as a % of teaching population:
 Pie chart for lecturers/professors as a % of total pay of teaching population:
 
 ![Pie chart for lecturers/professors as a % of total pay of teaching population](/graphs%20and%20tables/pie%20percent%20of%20pay.svg)
-
-## Some thoughts
-
-It would be useful to be able to sort this data by part-time and full-time staff. Doing some spot-checking on the hundreds of professors with pay from 25,000 to 35,000, it seems most if not all are medical staff, which is presumably reflective only of their teaching income. 
-
-I _could_ make an arbitrary cut-off at some point in that range, but that would not necessarily be accurate, especially for the many full-time non-teaching staff making barely above minimum wage, for whom that is their entire income. What is clear is that there are spikes in low-paid part-time professors and lecturers which skew analyses.
-
-It could also be useful to sort this by specific academic rank, further than the simple lecturer/professor distinction. Though there is a large jump from a lecturer title to a tenure-track position, in theory it is a ranking system, and of course those on lower ranks will be paid less. This system does not, however, reflect the reality of many academics spending their entire career as lecturers. 
-
-To this end, it would also be interesting to make note of how long people have been in their role, and the roles they held previously. There is data back to 2008 on the UVM site, and back to 1999 on openpayrolls.com, so this may be an interesting project to continue with an analysis focused on the time series aspect: moves from lecturer to professor, increases in pay by professor/lecturer, turnover rates, pay disparity changes, etc.
