@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 18.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="7.500in" height="4.500in" viewBox="0 0 5400 3240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - graph1</desc>
+	<rect x="0" y="0" width="5400" height="3240" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="5400.00" height="3240.00" style="fill:#FFFFFF"/>
+	<rect x="3.24" y="3.24" width="5393.52" height="3233.52" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="38.81" y="235.24" width="4256.21" height="2965.95" style="fill:#FFFFFF"/>
+	<rect x="42.05" y="238.48" width="4249.73" height="2959.47" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<defs>
+		<clipPath id="clipPath_sxDhpRHv">
+			<path d="M2166.92 1718.21 L3530.41 1352.87 A1411.59 1411.59 0 0 0 2166.92 306.62 Z"/>
+		</clipPath>
+	</defs>
+	<path d="M2166.92 1718.21 L3530.41 1352.87 A1411.59 1411.59 0 0 0 2166.92 306.62 Z" style="stroke:none;fill:#3191FF"/>
+	<path d="M2166.92 1718.21 L3530.41 1352.87 A1411.59 1411.59 0 0 0 2166.92 306.62 Z" style="fill:none;stroke:#1A85FF;stroke-width:6.00" clip-path="url(#clipPath_sxDhpRHv)"/>
+	<defs>
+		<clipPath id="clipPath_fwQJbdjU">
+			<path d="M2166.92 1718.21 L2166.92 306.62 A1411.59 1411.59 0 1 0 3530.41 1352.87 Z"/>
+		</clipPath>
+	</defs>
+	<path d="M2166.92 1718.21 L2166.92 306.62 A1411.59 1411.59 0 1 0 3530.41 1352.87 Z" style="stroke:none;fill:#D8296A"/>
+	<path d="M2166.92 1718.21 L2166.92 306.62 A1411.59 1411.59 0 1 0 3530.41 1352.87 Z" style="fill:none;stroke:#D41159;stroke-width:6.00" clip-path="url(#clipPath_fwQJbdjU)"/>
+	<text x="2742.69" y="1017.02" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">20.95%</text>
+	<text x="1591.31" y="2506.07" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">79.05%</text>
+	<rect x="4334.01" y="1534.61" width="988.20" height="367.20" style="fill:#FFFFFF"/>
+	<rect x="4337.25" y="1537.85" width="981.72" height="360.72" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="4382.61" y="1583.21" width="259.20" height="112.56" style="fill:#3191FF"/>
+	<rect x="4384.11" y="1584.71" width="256.20" height="109.56" style="fill:none;stroke:#3191FF;stroke-width:3.00"/>
+	<rect x="4382.61" y="1740.66" width="259.20" height="112.56" style="fill:#D8296A"/>
+	<rect x="4384.11" y="1742.16" width="256.20" height="109.56" style="fill:none;stroke:#D8296A;stroke-width:3.00"/>
+	<text x="4709.31" y="1678.84" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Lecturers</text>
+	<text x="4709.31" y="1836.46" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Professors</text>
+	<text x="2166.92" y="168.51" style="font-family:'Helvetica';font-size:157.44px;fill:#000000" text-anchor="middle">Percent of teaching population</text>
+</svg>

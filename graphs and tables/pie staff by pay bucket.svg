@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 18.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="7.500in" height="4.500in" viewBox="0 0 5400 3240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - graph1</desc>
+	<rect x="0" y="0" width="5400" height="3240" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="5400.00" height="3240.00" style="fill:#FFFFFF"/>
+	<rect x="3.24" y="3.24" width="5393.52" height="3233.52" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="38.81" y="235.24" width="4153.44" height="2965.95" style="fill:#FFFFFF"/>
+	<rect x="42.05" y="238.48" width="4146.96" height="2959.47" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<defs>
+		<clipPath id="clipPath_vwuZFoTL">
+			<path d="M2115.62 1718.21 L1018.60 829.87 A1411.59 1411.59 0 1 0 2115.62 306.62 Z"/>
+		</clipPath>
+	</defs>
+	<path d="M2115.62 1718.21 L1018.60 829.87 A1411.59 1411.59 0 1 0 2115.62 306.62 Z" style="stroke:none;fill:#3191FF"/>
+	<path d="M2115.62 1718.21 L1018.60 829.87 A1411.59 1411.59 0 1 0 2115.62 306.62 Z" style="fill:none;stroke:#1A85FF;stroke-width:6.00" clip-path="url(#clipPath_vwuZFoTL)"/>
+	<defs>
+		<clipPath id="clipPath_MfyecdGL">
+			<path d="M2115.62 1718.21 L1919.16 320.36 A1411.59 1411.59 0 0 0 1018.60 829.87 Z"/>
+		</clipPath>
+	</defs>
+	<path d="M2115.62 1718.21 L1919.16 320.36 A1411.59 1411.59 0 0 0 1018.60 829.87 Z" style="stroke:none;fill:#D8296A"/>
+	<path d="M2115.62 1718.21 L1919.16 320.36 A1411.59 1411.59 0 0 0 1018.60 829.87 Z" style="fill:none;stroke:#D41159;stroke-width:6.00" clip-path="url(#clipPath_MfyecdGL)"/>
+	<defs>
+		<clipPath id="clipPath_HmyoAxbe">
+			<path d="M2115.62 1718.21 L2115.62 306.62 A1411.59 1411.59 0 0 0 1919.16 320.36 Z"/>
+		</clipPath>
+	</defs>
+	<path d="M2115.62 1718.21 L2115.62 306.62 A1411.59 1411.59 0 0 0 1919.16 320.36 Z" style="stroke:none;fill:#19C58C"/>
+	<path d="M2115.62 1718.21 L2115.62 306.62 A1411.59 1411.59 0 0 0 1919.16 320.36 Z" style="fill:none;stroke:#00BF7F;stroke-width:6.00" clip-path="url(#clipPath_HmyoAxbe)"/>
+	<text x="2523.49" y="2591.09" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">3647 (85.73%)</text>
+	<text x="1652.23" y="923.84" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">517 (12.15%)</text>
+	<text x="2046.94" y="601.69" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">90 (2.116%)</text>
+	<rect x="4231.07" y="1374.47" width="1091.14" height="687.32" style="fill:#FFFFFF"/>
+	<rect x="4234.31" y="1377.71" width="1084.66" height="680.84" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="4334.34" y="1585.74" width="259.20" height="112.56" style="fill:#3191FF"/>
+	<rect x="4335.84" y="1587.24" width="256.20" height="109.56" style="fill:none;stroke:#3191FF;stroke-width:3.00"/>
+	<rect x="4334.34" y="1743.19" width="259.20" height="112.56" style="fill:#D8296A"/>
+	<rect x="4335.84" y="1744.69" width="256.20" height="109.56" style="fill:none;stroke:#D8296A;stroke-width:3.00"/>
+	<rect x="4334.34" y="1900.80" width="259.20" height="112.39" style="fill:#19C58C"/>
+	<rect x="4335.84" y="1902.30" width="256.20" height="109.39" style="fill:none;stroke:#19C58C;stroke-width:3.00"/>
+	<text x="4661.04" y="1681.37" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">0 to 100</text>
+	<text x="4661.04" y="1838.99" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">100 to 200</text>
+	<text x="4661.04" y="1996.43" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">200+</text>
+	<text x="4776.64" y="1519.36" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">Pay in thousands</text>
+	<text x="2115.62" y="168.51" style="font-family:'Helvetica';font-size:157.44px;fill:#000000" text-anchor="middle">Staff by pay bucket</text>
+</svg>
