@@ -18,7 +18,7 @@ Frequency histogram of all pay data:
 
 ![Frequency histogram of all pay data](/graphs%20and%20tables/freq%20histogram%20all%20data.svg)
 
-Staff earning 300,000 or higher:
+Staff earning $300,000 or higher:
 | Name  | Title | Pay |
 | - | - |  - |
 | Richard L. Page | Dean | $683,023 |
