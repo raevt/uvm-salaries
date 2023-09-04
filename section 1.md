@@ -18,6 +18,25 @@ Frequency histogram of all pay data:
 
 ![Frequency histogram of all pay data](/graphs%20and%20tables/freq%20histogram%20all%20data.svg)
 
+Staff earning 300,000 or higher:
+| Name  | Title | Pay |
+| - | - |  - |
+| Richard L. Page | Dean | $683,023 |
+| Suresh V. Garimella | President | $484,800 |
+| Gary S. Stein | Professor | $444,908 |
+| Mark T. Nelson | Professor | $429,173 |
+| Sanjay Sharma | Dean | $418,677 |
+| Randall Holcombe | Director-Faculty | $410,000 |
+| David M. Warshaw | Professor | $394,229 |
+| Christa M. Zehle | Senior Associate Dean | $369,945 |
+| Patricia A. Prelock| Senior Vice Pres/Provost | $367,200 |
+| John E. Becker | Athletic Head Coach Sr | $364,971 |
+| Beth D. Kirkpatrick | Professor | $364,623 |
+| Stephen T. Higgins | Professor | $353,901 |
+| Mary Cushman | Professor | 3$28,000 |
+| Emmett E Whitaker III | Associate Professor (COM) | $301,277 |
+| Trenten D. Klingerman | Vice Pres & Gen'l Counsel | $300,000 |
+
 Density histogram separated by professors/lecturers:
 
 ![Density histogram separated by professors/lecturers](/graphs%20and%20tables/density%20histogram%20separated.svg)
