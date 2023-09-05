@@ -33,7 +33,7 @@ Staff earning $300,000 or higher:
 | John E. Becker | Athletic Head Coach Sr | $364,971 |
 | Beth D. Kirkpatrick | Professor | $364,623 |
 | Stephen T. Higgins | Professor | $353,901 |
-| Mary Cushman | Professor | 3$28,000 |
+| Mary Cushman | Professor | $328,000 |
 | Emmett E Whitaker III | Associate Professor (COM) | $301,277 |
 | Trenten D. Klingerman | Vice Pres & Gen'l Counsel | $300,000 |
 
