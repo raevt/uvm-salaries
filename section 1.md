@@ -12,6 +12,10 @@ To that end, it would also be interesting to make note of how long people have b
 
 However, I believe the below visualizations provide a relatively complete view of the current distinction between lecturers and professors in terms of pay.
 
+Potential future ideas:
+- Getting a list of medical staff to remove them from this analysis (and/or just finding a way to categorize people by department/college)
+- Remove part-time employees
+
 ## Visualizations
 
 Frequency histogram of all pay data:
